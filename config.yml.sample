@@ -1,0 +1,2 @@
+uri: nats://urlpath:port
+subject: message_queue_name
